@@ -120,7 +120,7 @@ The Business Performance Analytics Dashboard provides valuable insights into sal
 
 **Role:** Data Analyst
 
-**Tools:** Tableau | SQL | Python | Power BI | Excel
+**Tools:** Tableau | Excel
 
 ---
 ⭐ If you found this project helpful, don't forget to star this repository!
